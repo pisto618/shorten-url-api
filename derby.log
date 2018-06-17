@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Jun 09 01:51:20 ICT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0163-e0bd-1c79-000007607db0 
+on database directory memory:C:\Users\Nontapat\Desktop\Resume_Transcript_Nontapat\car\testdb with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/Nontapat/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_161-b12
+user.dir=C:\Users\Nontapat\Desktop\Resume_Transcript_Nontapat\car
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
